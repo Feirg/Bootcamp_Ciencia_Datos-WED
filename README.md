@@ -4,7 +4,7 @@ A continuación podrán visualizar un proyecto de ciencias de datos en el cuál 
 
 - Top 5 de paises por cada continente con mayor deserción educativa.
 
-Todo esto para evaluar lo aprendido en el Bootcamp-Ciendia de datos de Código Facilito, recuerden que todos los días se aprenden nuevas cosas.
+Todo esto para evaluar lo aprendido en el Bootcamp-Ciencia de datos de Código Facilito, recuerden que todos los días se aprenden nuevas cosas.
 
 ## Dataset
 
